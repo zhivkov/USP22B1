@@ -3,6 +3,7 @@ export interface Student {
     dateOfBirth: Date;
     firstName: string;
     lastName: string;
+    IamNewHere: any;
 }
 
 export interface StudentGroup {
