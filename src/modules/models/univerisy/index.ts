@@ -6,6 +6,6 @@ export interface Student {
 }
 
 export interface StudentGroup {
-    id: number;
+    id: boolean;
     members: Student[]
 }
