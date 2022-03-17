@@ -1,6 +1,6 @@
 export interface Student {
-    fNumber: string;
-    dateOfBirth: Date;
+    fNumber: number;
+    dateB: Date;
     firstName: string;
     lastName: string;
 }
