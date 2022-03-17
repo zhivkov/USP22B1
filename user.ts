@@ -1,6 +1,6 @@
 export interface User {
-    name: string;
-    age: number;
-    isMarried: boolean;
+    name1: string;
+    age2: number;
+    isMarried3: boolean;
     children: any[];
 }
